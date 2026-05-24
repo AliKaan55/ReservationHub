@@ -1,0 +1,15 @@
+# Build çýktýlarý
+bin/
+obj/
+
+# Visual Studio dosyalarý
+.vs/
+*.user
+*.suo
+
+# Hassas ayar dosyasý — bunu GitHub'a atmýyoruz
+appsettings.Development.json
+
+# NuGet
+*.nupkg
+packages/
